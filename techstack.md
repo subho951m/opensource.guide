@@ -86,7 +86,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [subho951m/opensource.guide](https://github.com/subho951m/opensource.guide)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|103<br/>Tools used|12/24/23 <br/>Report generated|
+|104<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -511,9 +511,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (55)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (56)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (52)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (53)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -559,6 +559,7 @@ Full tech stack [here](/techstack.md)
 |[remark-stringify](https://www.npmjs.com/remark-stringify)|v4.0.0|08/01/17|Titus Wormer |MIT|N/A|
 |[request](https://www.npmjs.com/request)|N/A|01/31/19|Damon Maneice |Apache-2.0|N/A|
 |[resolve](https://www.npmjs.com/resolve)|N/A|01/31/19|Damon Maneice |MIT|N/A|
+|[s3](https://www.npmjs.com/s3)|N/A|01/02/19|Justin Kenyon |MIT|N/A|
 |[slug](https://www.npmjs.com/slug)|v0.9.1|07/24/17|Brandon Keepers |MIT|[CVE-2017-16117](https://github.com/advisories/GHSA-jxqq-cqm6-pfq9) (Moderate)|
 |[st](https://www.npmjs.com/st)|N/A|01/31/19|Damon Maneice |ISC|N/A|
 |[table](https://www.npmjs.com/table)|N/A|01/31/19|Damon Maneice |BSD-3-Clause|N/A|
