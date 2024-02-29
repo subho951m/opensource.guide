@@ -2,7 +2,7 @@ repo_name: subho951m/opensource.guide
 report_id: 63dccb1c1acf6f69cc0ff87ed454da36
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:16:55+00:00'
+timestamp: '2024-02-29T19:11:30+00:00'
 requested_by: kenyonj
 provider: github
 branch: main
@@ -81,7 +81,7 @@ tools:
   detection_source_url: https://github.com/subho951m/opensource.guide
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -185,7 +185,7 @@ tools:
   last_updated_by: Damon Maneice
   last_updated_on: 2019-01-31 20:34:49.000000000 Z
 - name: Horizon
-  description: 'A realtime, open-source JavaScript back end from RethinkDB '
+  description: A realtime, open-source JavaScript back end from RethinkDB
   website_url: http://horizon.io/
   license: MIT
   open_source: true
@@ -475,7 +475,7 @@ tools:
   detection_source_url: https://github.com/subho951m/opensource.guide
   detection_source: Repo Metadata
 - name: Success
-  description: "  Discover Success.ai – the ultimate B2B cold email powerhouse! "
+  description: Discover Success.ai – the ultimate B2B cold email powerhouse!
   website_url: https://www.success.ai/
   open_source: false
   hosted_saas: false
