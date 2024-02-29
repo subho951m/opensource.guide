@@ -3,38 +3,38 @@
 ## Tech Stack
 subho951m/opensource.guide is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
-- [Atom](http://atom.io/) – Text Editor
-- [Component](http://component.io) – Front End Package Manager
-- [Ruby](https://www.ruby-lang.org) – Languages
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [D](http://dlang.org/) – Languages
+- [Eta](http://eta-lang.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Swift](https://developer.apple.com/swift/) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Typography](http://www.typography.com/) – Fonts
-- [Qt](http://www.qt.io/) – Cross-Platform Mobile Development
-- [Primer](http://primercss.io/) – Front-End Frameworks
-- [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
-- [D](http://dlang.org/) – Languages
-- [OpenLayers](http://openlayers.org/) – Mapping APIs
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- [Horizon](http://horizon.io/) – Realtime Backend / API
 - [Element](http://element.eleme.io/) – Cross-Platform Desktop Development
-- [Eta](http://eta-lang.org/) – Languages
-- [hub](http://hub.github.com/) – Git Tools
 - [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
 - [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
-- [navi](https://github.com/denisidoro/navi) – Shell Utilities
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Typ](https://www.typ-set.com/) – File Conversion
+- [Primer](http://primercss.io/) – Front-End Frameworks
+- [Qt](http://www.qt.io/) – Cross-Platform Mobile Development
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- [Horizon](http://horizon.io/) – Realtime Backend / API
 - [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Atom](http://atom.io/) – Text Editor
+- [Component](http://component.io) – Front End Package Manager
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [hub](http://hub.github.com/) – Git Tools
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Typ](https://www.typ-set.com/) – File Conversion
 - [Enso](https://enso.org/) – Data Science Tools
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Try](https://github.com/binpash/try) – Shell Utilities
+- [Typography](http://www.typography.com/) – Fonts
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- [navi](https://github.com/denisidoro/navi) – Shell Utilities
 
 Full tech stack [here](/techstack.md)
 
@@ -44,38 +44,38 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 subho951m/opensource.guide is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/648/default_92414794b88a328cecc4ae62413ea91ea0593726.png' alt='Atom'/> [Atom](http://atom.io/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6490/2OjlqE5m.jpg' alt='Eta'/> [Eta](http://eta-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1900/qZCU31OW_400x400.jpg' alt='Typography'/> [Typography](http://www.typography.com/) – Fonts
-- <img width='25' height='25' src='https://img.stackshare.io/service/2449/qt-icon.png' alt='Qt'/> [Qt](http://www.qt.io/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/2701/7143434.png' alt='Primer'/> [Primer](http://primercss.io/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Immutable.js'/> [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5125/favicon-96x96.png' alt='Horizon'/> [Horizon](http://horizon.io/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/6421/12810740.png' alt='Element'/> [Element](http://element.eleme.io/) – Cross-Platform Desktop Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/6490/2OjlqE5m.jpg' alt='Eta'/> [Eta](http://eta-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Lit'/> [Lit](https://ajusa.github.io/lit/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/9702/omi-logo.png' alt='Omi'/> [Omi](https://github.com/Tencent/omi) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11380/no-img-open-source.png' alt='navi'/> [navi](https://github.com/denisidoro/navi) – Shell Utilities
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/2701/7143434.png' alt='Primer'/> [Primer](http://primercss.io/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2449/qt-icon.png' alt='Qt'/> [Qt](http://www.qt.io/) – Cross-Platform Mobile Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/5125/favicon-96x96.png' alt='Horizon'/> [Horizon](http://horizon.io/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/648/default_92414794b88a328cecc4ae62413ea91ea0593726.png' alt='Atom'/> [Atom](http://atom.io/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/848/b5afc399fabed86ab0580f68f8b9b553.png' alt='Component'/> [Component](http://component.io) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
 - <img width='25' height='25' src='https://img.stackshare.io/service/30751/default_2aa4a61c7dace7562797284dd53e3340fd2ec652.jpg' alt='Enso'/> [Enso](https://enso.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Immutable.js'/> [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/1900/qZCU31OW_400x400.jpg' alt='Typography'/> [Typography](http://www.typography.com/) – Fonts
+- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11380/no-img-open-source.png' alt='navi'/> [navi](https://github.com/denisidoro/navi) – Shell Utilities
 
 Full tech stack [here](/techstack.md)
 
@@ -86,7 +86,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [subho951m/opensource.guide](https://github.com/subho951m/opensource.guide)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|104<br/>Tools used|01/05/24 <br/>Report generated|
+|104<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
